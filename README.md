@@ -26,7 +26,7 @@
 
 I'm an engineering student focused on building useful AI-powered software. My interests span **Agentic AI, Retrieval-Augmented Generation, backend engineering, and automated testing**.
 
-I enjoy working across the development cycle — from designing workflows and building APIs to testing, containerizing, and deploying applications.
+I enjoy working across the development cycle from designing workflows and building APIs to testing, containerizing, and deploying applications.
 
 - **Currently:** Data Science & Machine Learning Intern at Infotact Solutions
 - **Building with:** Python, FastAPI, LangGraph, MCP, and Ollama
