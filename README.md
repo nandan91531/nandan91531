@@ -1,91 +1,76 @@
-<!--
-  Profile README for github.com/nandan91531
-  Create a public repository named exactly: nandan91531
-  Set this file as README.md in that repository.
---><div align="center"><a href="https://github.com/nandan91531">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,35:17143B,70:173B5A,100:080B16&height=220&section=header&text=NANDAN%20SHARMA&fontSize=48&fontColor=EAF2FF&fontAlignY=38&desc=Building%20useful%20AI%20systems%20%7C%20Agentic%20AI%20%E2%80%A2%20RAG%20%E2%80%A2%20Backend&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Nandan Sharma profile header"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071A1C,35:123B3A,70:254B68,100:10152B&text=NANDAN%20SHARMA&fontColor=E8FFF9&fontSize=52&fontAlignY=38&desc=AI%20ENGINEERING%20%E2%80%A2%20AGENTIC%20SYSTEMS%20%E2%80%A2%20BACKEND&descAlignY=59&descSize=14&animation=fadeIn" width="100%" /><a href="https://github.com/nandan91531">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=69E6C5&center=true&vCenter=true&width=650&lines=Building+AI+that+does+more+than+just+chat.;Turning+LLMs+into+useful+engineering+systems.;Python+%7C+RAG+%7C+Agents+%7C+Backend" alt="Typing introduction" />
 </a>
-<a href="https://github.com/nandan91531"><img src="https://img.shields.io/badge/GitHub-nandan91531-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/nandan-sharma-b4a472288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-
-
-AI Engineer in the making · Python Developer · Open-source contributor
-
-I build practical systems with LLMs, agents, retrieval, APIs, and automation.
-</div>whoami
-I'm a final-year engineering student focused on building reliable AI-powered software—not just demos.
-- 🤖 Exploring Agentic AI, multi-agent orchestration, and RAG
-- ⚙️ Building backend systems with Python, FastAPI, and PostgreSQL
-- 🧪 Interested in LLM evaluation, automated testing, and dependable AI
-- 🌱 Currently learning by shipping projects and contributing to open source
-- 🏢 Data Science & Machine Learning Intern at Infotact Solutions
-Featured builds
+<a href="https://www.linkedin.com/in/nandan-sharma-b4a472288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/nandan91531"><img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=nandan91531&style=for-the-badge&color=1D6F68&label=PROFILE+VIEWS" />
+</div>Hey, I'm Nandan 👋
+I'm an engineering student and AI-focused developer interested in building systems that solve real problems. I work across Python backend development, Retrieval-Augmented Generation, and agentic workflows — with a focus on making AI applications useful, testable, and reliable.
+- 🔭 Building: AI agents, RAG applications, and developer tools
+- 🧠 Exploring: LangGraph, MCP, LLM evaluation, and AI reliability
+- 🛠️ Working with: Python, FastAPI, Ollama, PostgreSQL, Docker
+- 🌱 Learning by building, shipping, and contributing to open source
+What I've been building
 <table>
 <tr>
-<td width="50%" valign="top">🧪 Regression Guard
-AI-powered regression testing agent
-
-Uses a local LLM to generate targeted tests from code changes, then validates them against buggy and fixed versions using a strict FAIL → PASS check.
-
-Python Ollama Pytest Git
-
-↗ View repository
-</td>
-<td width="50%" valign="top">🎧 Lectura AI
-YouTube & lecture study assistant
-
-Turns lecture audio into timestamped transcripts, searchable knowledge, and grounded answers with source timestamps.
-
-FastAPI Whisper ChromaDB Mistral
-
-↗ View repository
-</td>
+<td width="50%" valign="top"><h3>🧪 Regression Guard</h3>
+<p><b>AI-powered regression testing agent</b></p>
+<p>Generates targeted tests from code diffs and validates them against buggy and fixed workspaces using a strict FAIL → PASS workflow.</p>
+<sub>Python · Ollama · Pytest · Git</sub>
+<br/><br/>
+<a href="https://github.com/nandan91531/Regression-Guard">↗ Explore project</a></td>
+<td width="50%" valign="top"><h3>🎧 Lectura AI</h3>
+<p><b>YouTube & lecture study assistant</b></p>
+<p>Transforms lecture audio into timestamped transcripts, semantic search, and grounded answers with source references.</p>
+<sub>FastAPI · Whisper · ChromaDB · Mistral</sub>
+<br/><br/>
+<a href="https://github.com/nandan91531/lectura-ai">↗ Explore project</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">🧭 TripMate AI
-MCP-powered multi-agent travel planner
-
-Coordinates specialist agents for travel research and planning, with LangGraph orchestration and human approval before finalizing an itinerary.
-
-LangGraph MCP FastAPI PostgreSQL
-
-↗ View repository
-</td>
-<td width="50%" valign="top">🌐 Portfolio
-Selected work & engineering profile
-
-A central place to explore my projects, technical interests, and work.
-
-↗ View source repository
-</td>
+<td width="50%" valign="top"><h3>🧭 TripMate AI</h3>
+<p><b>MCP multi-agent travel planner</b></p>
+<p>Coordinates specialist agents for travel research and itinerary planning, with human approval and persistent workflow state.</p>
+<sub>LangGraph · MCP · FastAPI · PostgreSQL</sub>
+<br/><br/>
+<a href="https://github.com/nandan91531/Tripmate-AI">↗ Explore project</a></td>
+<td width="50%" valign="top"><h3>🌐 Portfolio</h3>
+<p><b>My work, in one place</b></p>
+<p>A collection of selected projects and experiments across AI, backend development, and software engineering.</p>
+<sub>React · Vite · Tailwind CSS</sub>
+<br/><br/>
+<a href="https://github.com/nandan91531/Portfolio">↗ View source</a></td>
 </tr>
-</table>Open source
-<div align="center">Contributor to Haystack by deepset
-Merged PR #13755
-
-Fixed unintended mutation in InMemoryDocumentStore.update_by_filter and added a regression test to protect against the issue.
-<a href="https://github.com/deepset-ai/haystack/pull/13755">
-  <img src="https://img.shields.io/badge/PR-13755%20%E2%80%A2%20MERGED-238636?style=for-the-badge&logo=github&logoColor=white" alt="Merged Haystack pull request"/>
-</a></div>Tech I work with
-<div align="center"><img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,postgres,mysql,sqlite,docker,git,github,linux,numpy,pandas&perline=7" alt="Languages and tools"/>
+</table>Tech I use
+<div align="center">Languages & Backend
+<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,postgres,mysql,sqlite&theme=dark" />
 
 
-<img src="https://img.shields.io/badge/AI%20%26%20Agents-LangGraph%20%7C%20MCP%20%7C%20Ollama%20%7C%20LLMs-6D5AE6?style=flat-square" alt="AI and agents"/>
-<img src="https://img.shields.io/badge/RAG-ChromaDB%20%7C%20Embeddings%20%7C%20Whisper-0E7490?style=flat-square" alt="RAG stack"/>
-<img src="https://img.shields.io/badge/Testing-Pytest%20%7C%20Regression%20Testing-15803D?style=flat-square" alt="Testing stack"/></div>A few numbers
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=nandan91531&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=56D4DD&text_color=DCE6F1&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan91531&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=DCE6F1&langs_count=8" alt="Top languages"/>
-<img src="https://streak-stats.demolab.com?user=nandan91531&hide_border=true&background=0D1117&ring=9B8CFF&fire=56D4DD&currStreakLabel=DCE6F1&sideLabels=DCE6F1&dates=9AA4B2" alt="GitHub contribution streak"/></div>Beyond the code
-<div align="center">🏆 3rd place — INNOVAX 2K26 Global Online Hackathon
-🧩 250+ DSA problems solved across LeetCode and takeUforward
-♟️ Chess enthusiast · Curious builder · Lifelong learner
-</div><div align="center">Have an interesting problem to solve?
-I'm always interested in thoughtful engineering conversations, practical AI projects, and open-source collaboration.
-
-<a href="https://www.linkedin.com/in/nandan-sharma-b4a472288/"><img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+AI, Data & Tooling
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,docker,git,github,linux&theme=dark" />
 
 
+<img src="https://img.shields.io/badge/LangGraph-1B263B?style=flat-square&logo=chainlink&logoColor=69E6C5" />
+<img src="https://img.shields.io/badge/Ollama-1B263B?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-1B263B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-1B263B?style=flat-square&logoColor=69E6C5" />
+<img src="https://img.shields.io/badge/RAG-1B263B?style=flat-square&logoColor=69E6C5" /></div>Open source
+<div align="center"><a href="https://github.com/deepset-ai/haystack/pull/13755">
+  <img src="https://img.shields.io/badge/Haystack-merged%20PR%20%2313755-238636?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+Fixed unintended mutation in InMemoryDocumentStore.update_by_filter and added a regression test.
+</div>A few milestones
+<div align="center"><img src="https://img.shields.io/badge/DSA-250%2B%20problems-245B55?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hackathon-Global%203rd%20Place-C08A36?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-Haystack-356B8C?style=for-the-badge" /></div>GitHub activity
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=nandan91531&show_icons=true&hide_border=true&bg_color=0D1719&title_color=69E6C5&icon_color=69E6C5&text_color=D7E7E3&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan91531&layout=compact&hide_border=true&bg_color=0D1719&title_color=69E6C5&text_color=D7E7E3&langs_count=6" />
 
-<sub>“Build things that work. Make them reliable. Keep learning.”</sub>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,35:17143B,70:173B5A,100:080B16&height=100&section=footer" width="100%" alt="Decorative footer"/></div>
+
+<img src="https://streak-stats.demolab.com?user=nandan91531&hide_border=true&background=0D1719&ring=69E6C5&fire=E7B66A&currStreakLabel=69E6C5&sideLabels=D7E7E3&dates=8CA7A0" /></div><div align="center">Let's build something meaningful.
+<a href="https://www.linkedin.com/in/nandan-sharma-b4a472288/">
+  <img src="https://img.shields.io/badge/Find%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+<sub>Curiosity → Experiments → Engineering</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:071A1C,35:123B3A,70:254B68,100:10152B" width="100%" /></div>
