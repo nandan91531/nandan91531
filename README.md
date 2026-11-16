@@ -22,20 +22,22 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an engineering student focused on building useful AI-powered software. My interests span **Agentic AI, Retrieval-Augmented Generation, backend engineering, and automated testing**.
+Hey! I'm an engineering student passionate about building practical AI-powered applications and intelligent systems.
 
-I enjoy working across the development cycle from designing workflows and building APIs to testing, containerizing, and deploying applications.
+My interests lie at the intersection of **🤖 Agentic AI, 📚 Retrieval-Augmented Generation (RAG), ⚙️ Backend Engineering, and 🧪 Automated Testing.**
 
-- **Currently:** Data Science & Machine Learning Intern at Infotact Solutions
-- **Building with:** Python, FastAPI, LangGraph, MCP, and Ollama
-- **Exploring:** Multi-agent systems, guardrails, Human-in-the-Loop workflows, and vector search
-- **Interested in:** AI engineering, backend systems, and open-source collaboration
+I enjoy turning ideas into working software — from designing intelligent workflows and building APIs to testing, containerizing, and deploying applications.
+
+- 💼 **Currently:** Data Science & Machine Learning Intern at Infotact Solutions
+- 🛠️ **Building with:** Python, FastAPI, LangGraph, MCP, and Ollama
+- 🔍 **Exploring:** Multi-Agent Systems, Guardrails, Human-in-the-Loop (HITL), and Vector Search
+- 🎯 **Interested in:** AI Engineering, Backend Systems, and Open-Source Collaboration
 
 ---
 
-## Selected Projects
+## Projects
 
 <p align="center"><sub>Click any project title to explore the code.</sub></p>
 
@@ -71,7 +73,7 @@ I enjoy working across the development cycle from designing workflows and buildi
   <img src="assets/portfolio.gif" width="100%" alt="Portfolio animated browser window"/>
   <h3>🌐 Portfolio</h3>
   <strong>Personal Developer Portfolio</strong>
-  <p align="left">A visual home for selected projects, experiments, and engineering interests — bringing my work together in one place.</p>
+  <p align="left">A visual home for selected projects, experiments, and engineering interests bringing my work together in one place.</p>
   <p align="left"><sub>React · Vite · Tailwind CSS</sub></p>
   <a href="https://github.com/nandan91531/Portfolio"><strong>VIEW SOURCE ↗</strong></a>
 </td>
