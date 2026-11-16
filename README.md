@@ -28,7 +28,7 @@ Hey! I'm an engineering student passionate about building practical AI-powered a
 
 My interests lie at the intersection of **🤖 Agentic AI, 📚 Retrieval-Augmented Generation (RAG), ⚙️ Backend Engineering, and 🧪 Automated Testing.**
 
-I enjoy turning ideas into working software — from designing intelligent workflows and building APIs to testing, containerizing, and deploying applications.
+I enjoy turning ideas into working software from designing intelligent workflows and building APIs to testing, containerizing, and deploying applications.
 
 - 💼 **Currently:** Data Science & Machine Learning Intern at Infotact Solutions
 - 🛠️ **Building with:** Python, FastAPI, LangGraph, MCP, and Ollama
