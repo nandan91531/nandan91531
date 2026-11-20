@@ -25,12 +25,10 @@
 ## 👨‍💻 About Me
 
 Hey! I'm an engineering student passionate about building practical AI-powered applications and intelligent systems.
-
-Curious about how things work, passionate about building things that matter.  
+---
 Exploring Agentic AI, RAG, and Backend Engineering.  
 I enjoy turning ideas into real-world applications and solving problems through code.  
 Always learning, building, breaking things, and getting better. 🚀
----
 
 ## Projects
 
